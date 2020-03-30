@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fast Food</string>
+    <string name="imagenhamburguesa">Hamburguesa 1</string>
+    <string name="InicioSandwich"> Sandwitches </string>
+    <string name="SobreNosotros"> Sobre Nosotros</string>
+    <string name="Sandwiches"> Sandwiches</string>
+    <string name="Sandwitch1"> Chacarero </string>
+    <string name="Sandwitch2"> Barros Luco</string>
+    <string name="Sandwitch3"> Chemilico</string>
+    <string name="Sandwitch4"> Churrasco Italiano</string>
+    <string name="Sandwitch5"> King de Pollo</string>
+    <string name="Mensaje1"> Sandwitches</string>
+    <string name="DescripcionSobreNosotros"> Somos una empresa de la region con mas de 10 años de experiencia realizando Sandwitches! Los mejores de la zona
+                                              Si no chorrea no es Fast Food</string>
+    <string name="TipodeSandwich">TIPO</string>
+</resources>
